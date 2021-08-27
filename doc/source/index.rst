@@ -65,10 +65,20 @@ Z系列无人机使用文档
 .. toctree::
    :maxdepth: 2
    :hidden:
-   :caption: Z410使用手册
+   :caption: Z410基础教程
 
-   硬件介绍 <docs/Z410/1. Z410-使用教程>
-   软件介绍 <docs/Z410/2. Z410-单目版教程>
-   首次飞行 <docs/Z410/3. Z410-视觉版教程>
+   基础教程<docs/Z410/1. Z410-基础使用教程>
+   
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: Z410单目版教程
+   单目版教程 <docs/Z410/2. Z410-单目版教程>
+   
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: Z410视觉版教程
+   视觉版教程 <docs/Z410/3. Z410-视觉版教程>
 
 
