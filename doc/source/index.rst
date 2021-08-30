@@ -51,23 +51,13 @@ Z系列无人机使用文档
    常见问题处理 <docs/R300/常见问题处理>
 
 
-.. toctree::
-   :maxdepth: 2
-   :hidden:
-   :caption:   R300
-
-   硬件框架介绍 <docs/R300/硬件框架介绍>
-   软件框架介绍 <docs/R300/软件框架介绍>
-   操作流程 <docs/R300/操作流程>
-   R300仿真 <docs/R300/R300仿真>
-   常见问题处理 <docs/R300/常见问题处理>
  
 .. toctree::
    :maxdepth: 2
    :hidden:
    :caption: Z410基础教程
 
-   基础教程<docs/Z410/1. Z410-基础教程>
+   基础教程<docs/Z410/1. Z410-使用教程>
    
 .. toctree::
    :maxdepth: 2
